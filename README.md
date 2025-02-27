@@ -16,6 +16,9 @@ Make sure you have Python installed, then install the required dependency:
 
 ## 🔧 How to Use
 
+First take a pull from repo - 
+  git pull https://github.com/PersonalArkajyoti/Keep-Your-Teams-Active.git  # Pull latest version
+  cd Keep-Your-Teams-Active  # Navigate to the script folder
 Run the script using:
   python circle_bot.py
 Your mouse will start moving in circles automatically.
