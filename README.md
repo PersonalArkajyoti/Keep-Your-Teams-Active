@@ -1,5 +1,5 @@
-# Circle Bot - Keep Your Teams Active!
-🌀 Are you tired of your boss keeping your Teams status alive?
+# 🌀Keep Your Teams Active!
+Are you tired of your boss keeping your Teams status alive?
 Introducing Circle Bot – the ultimate way to keep your mouse moving in a circular motion to prevent your status from going idle. Just run the script, and let your mouse do the work! 😉
 
 ## 🚀 Features
